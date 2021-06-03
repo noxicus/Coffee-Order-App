@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="HeaderTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">@color/red_500</item>
+    <item name="colorPrimaryDark">@color/red_700</item>
+    <item name="colorAccent">@color/red_100</item>
+</style>
+
+</resources>
